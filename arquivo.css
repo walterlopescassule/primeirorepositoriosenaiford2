@@ -1,4 +1,19 @@
 h1 {
 
-    color: brown;
+    color: azure;
+}
+
+h2 {
+
+    color: red;
+}
+
+p {
+
+    color: aliceblue;
+}
+
+body {
+    background-image: url("./imagem/Cristiano_Ronaldo_2022-23.webp");
+    background-size: cover;
 }
